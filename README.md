@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! I am Lilian Burdianov, aka Brevis
+
+I'm currently sharpenning my skills in Solidity development and Web3 security research.
 
 <!--
 **burdianov/burdianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
