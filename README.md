@@ -1,5 +1,5 @@
 ### Welcome! 
-### I am Lilian Burdianov, aka Brevis.
+### I am Brevis.
 
 I'm currently sharpenning my skills in Solidity development, Web3 security research, and DeFi space.
 
