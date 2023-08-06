@@ -1,7 +1,7 @@
 ### Welcome! 
 ### I am Brevis.
 
-Grinding...
+Occupation: grinding...
 
 <!--
 **burdianov/burdianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
