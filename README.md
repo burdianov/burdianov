@@ -1,7 +1,7 @@
 ### Welcome! 
 ### I am Brevis.
 
-I'm currently sharpenning my skills in Solidity development, Web3 security research, and DeFi space.
+Grinding...
 
 <!--
 **burdianov/burdianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
